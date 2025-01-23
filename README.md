@@ -14,6 +14,9 @@
   </p>
 
   <h2>Exploratory Data Analysis (EDA)</h2>
+
+  ![image](https://github.com/user-attachments/assets/bcea7359-f689-4e2b-9ad4-56115e2596b4)
+  
   <p>
     The analysis covered the historical price trends of TCS, Tata Motors, Tata Steel, and NSE50 from 2008 to 2025, focusing on performance during key periods, including the 2008 global financial crisis and the 2020 COVID-19 pandemic. The following steps were taken:
   </p>
