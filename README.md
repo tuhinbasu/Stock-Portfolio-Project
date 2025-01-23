@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h1><u>Stock Portfolio Project</u></h1>
+<h1><u>Stock Portfolio Project</u></h1>
 
   <h2>Analysis and Comparison of Tata’s Key Stocks (TCS, Tata Motors, Tata Steel) and NSE50</h2>
   <p>
@@ -62,5 +55,4 @@
   <p>
     Overall, the study highlights the unique investment profiles of each stock, providing a robust foundation for making informed investment decisions.
   </p>
-</body>
-</html>
+<p>For a detailed report check the <u>Stock Portfolio Analysis Report</u></p>
